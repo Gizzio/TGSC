@@ -8,6 +8,7 @@ authors = ["Stanislaw Gizinski <s.gizinski84@gmail.com>"]
 python = "^3.8"
 jupyter = "^1.0.0"
 pre-commit = "^2.7.1"
+networkx = "^2.5"
 
 [tool.poetry.dev-dependencies]
 
