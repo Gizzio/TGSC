@@ -1,0 +1,77 @@
+appdirs==1.4.4
+appnope==0.1.0; platform_system == "Darwin"
+argon2-cffi==20.1.0
+async-generator==1.10
+attrs==20.2.0
+backcall==0.2.0
+bleach==3.2.1
+certifi==2020.6.20
+cffi==1.14.3
+cfgv==3.2.0
+colorama==0.4.4; sys_platform == "win32"
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+distlib==0.3.1
+entrypoints==0.3
+filelock==3.0.12
+identify==1.5.6
+ipykernel==5.3.4
+ipython-genutils==0.2.0
+ipython==7.18.1
+ipython==7.18.1; python_version >= "3.3"
+ipywidgets==7.5.1
+jedi==0.17.2
+jinja2==2.11.2
+jsonschema==3.2.0
+jupyter-client==6.1.7
+jupyter-console==6.2.0
+jupyter-core==4.6.3
+jupyter==1.0.0
+jupyterlab-pygments==0.1.2
+kiwisolver==1.2.0
+markupsafe==1.1.1
+matplotlib==3.3.2
+mistune==0.8.4
+nbclient==0.5.1
+nbconvert==6.0.7
+nbformat==5.0.8
+nest-asyncio==1.4.2
+networkx==2.5
+nodeenv==1.5.0
+notebook==6.1.4
+numpy==1.19.2
+packaging==20.4
+pandocfilters==1.4.3
+parso==0.7.1
+pexpect==4.8.0; sys_platform != "win32"
+pickleshare==0.7.5
+pillow==8.0.1
+pre-commit==2.7.1
+prometheus-client==0.8.0
+prompt-toolkit==3.0.8
+ptyprocess==0.6.0
+ptyprocess==0.6.0; os_name != "nt"
+pycparser==2.20
+pygments==2.7.2
+pyparsing==2.4.7
+pyrsistent==0.17.3
+python-dateutil==2.8.1
+pywin32==228; sys_platform == "win32"
+pywinpty==0.5.7; os_name == "nt"
+pyyaml==5.3.1
+pyzmq==19.0.2
+qtconsole==4.7.7
+qtpy==1.9.0
+scipy==1.5.3
+send2trash==1.5.0
+six==1.15.0
+terminado==0.9.1
+testpath==0.4.4
+toml==0.10.1
+tornado==6.0.4
+traitlets==5.0.5
+virtualenv==20.1.0
+wcwidth==0.2.5
+webencodings==0.5.1
+widgetsnbextension==3.5.1
